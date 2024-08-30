@@ -3,7 +3,8 @@ name: Feature Request
 about: Suggest a new feature for the project
 title: "[FEATURE] "
 labels: enhancement
-assignees: ''
+assignees: CTH999
+
 ---
 
 **Describe the feature:**
