@@ -1,8 +1,9 @@
 ---
 name: Pull Request
-about: A general Pull Request Template
-labels: other
-assignees: 'CTH999'
+about: general Pull Request Template
+title: "[Pull Request] "
+labels: addition
+assignees: CTH999
 ---
 
 **Describe your changes:**
