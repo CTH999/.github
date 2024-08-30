@@ -3,7 +3,7 @@ name: Other
 about: A pull request that doesn't fit into bug fix or feature
 title: "[OTHER] "
 labels: other
-assignees: ''
+assignees: 'CTH999'
 ---
 
 **Describe your changes:**
