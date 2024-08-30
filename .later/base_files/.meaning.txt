@@ -1,0 +1,4 @@
+this is for if there's a more in-depth template.
+
+The indepth one goes here, the basic template goes in .later
+the idea is that details are here, the templates outside
