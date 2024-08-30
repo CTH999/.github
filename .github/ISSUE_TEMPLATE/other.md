@@ -2,8 +2,9 @@
 name: Other
 about: Report an issue or make a request that doesn't fit other categories
 title: "[OTHER] "
-labels: triage
-assignees: ''
+labels: ''
+assignees: CTH999
+
 ---
 
 **Describe your issue:**
