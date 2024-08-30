@@ -1,7 +1,6 @@
 ---
-name: Other
-about: A pull request that doesn't fit into bug fix or feature
-title: "[OTHER] "
+name: Pull Request
+about: A general Pull Request Template
 labels: other
 assignees: 'CTH999'
 ---
