@@ -1,9 +1,9 @@
 ---
-name: Pull Request
-about: general Pull Request Template
-title: "[Pull Request] "
-labels: addition
-assignees: CTH999
+name: Other
+about: A pull request that doesn't fit into bug fix or feature
+title: "[OTHER] "
+labels: other
+assignees: ''
 ---
 
 **Describe your changes:**
